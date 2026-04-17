@@ -144,14 +144,6 @@ Contributions are welcome! Here are some ways you can help:
 5. Commit and push your changes
 6. Open a Pull Request
 
-## Deployment
-
-This project is designed to be deployed on [Vercel](https://vercel.com/):
-
-1. Push your repo to GitHub
-2. Import the project on [vercel.com/new](https://vercel.com/new)
-3. Vercel auto-detects Next.js -- just click Deploy
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
