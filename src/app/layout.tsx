@@ -31,7 +31,25 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: "Foundations of Machine Learning",
   description:
-    "An accessible guide to the foundations of machine learning, based on the textbook by Mohri, Rostamizadeh & Talwalkar.",
+    "An accessible, interactive guide to the foundations of machine learning by Adam El-Kadi. Based on the textbook by Mohri, Rostamizadeh & Talwalkar. Plain English, no PhD required.",
+  authors: [{ name: "Adam El-Kadi", url: "https://adamfelkadi.com" }],
+  creator: "Adam F. El-Kadi",
+  openGraph: {
+    title: "Foundations of Machine Learning",
+    description:
+      "The mathematical backbone of machine learning, explained in plain English. 17 interactive chapters — no PhD required.",
+    siteName: "Foundations of Machine Learning",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Foundations of Machine Learning",
+    description:
+      "The mathematical backbone of machine learning, explained in plain English. 17 interactive chapters — no PhD required.",
+  },
+  other: {
+    "article:author": "Adam F. El-Kadi",
+  },
 };
 
 export default function RootLayout({

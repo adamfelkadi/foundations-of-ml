@@ -93,6 +93,17 @@ export default function Home() {
         <p className="mt-1.5">
           Content rewritten for accessibility. Not affiliated with the authors or MIT Press.
         </p>
+        <p className="mt-3">
+          A project by{" "}
+          <a
+            href="https://adamfelkadi.com"
+            className="text-[#78716C] underline underline-offset-2 hover:text-[#B45309] transition-colors"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Adam El-Kadi
+          </a>.
+        </p>
       </footer>
     </div>
   );
