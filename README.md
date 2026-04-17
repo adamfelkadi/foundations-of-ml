@@ -25,7 +25,7 @@ An open-source, interactive web textbook that distills [*Foundations of Machine 
 
 <p align="center">
   <picture>
-    <img src=".github/screenshots/home.png" alt="Home page — hero section with chapter listing" width="720" style="border-radius:12px; border:1px solid #e7e5e4;" />
+    <img src=".github/screenshots/home-v2.png" alt="Home page — hero section with chapter listing" width="720" style="border-radius:12px; border:1px solid #e7e5e4;" />
   </picture>
 </p>
 
@@ -37,11 +37,11 @@ An open-source, interactive web textbook that distills [*Foundations of Machine 
 
 <p align="center">
   <picture>
-    <img src=".github/screenshots/chapter.png" alt="Chapter view — Kernel Methods" width="720" style="border-radius:12px; border:1px solid #e7e5e4;" />
+    <img src=".github/screenshots/chapter-v2.png" alt="Chapter view — Kernel Methods" width="720" style="border-radius:12px; border:1px solid #e7e5e4;" />
   </picture>
   &nbsp;&nbsp;
   <picture>
-    <img src=".github/screenshots/interactive.png" alt="Interactive SVM visualization and practice exercises" width="720" style="border-radius:12px; border:1px solid #e7e5e4;" />
+    <img src=".github/screenshots/interactive-v2.png" alt="Interactive SVM visualization and practice exercises" width="720" style="border-radius:12px; border:1px solid #e7e5e4;" />
   </picture>
 </p>
 
