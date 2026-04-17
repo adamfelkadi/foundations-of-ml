@@ -159,5 +159,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  Built with care by <a href="https://github.com/adamfelkadi">Adam El-Kadi</a>
+  A project by <a href="https://adamfelkadi.com">Adam El-Kadi</a>
 </p>
