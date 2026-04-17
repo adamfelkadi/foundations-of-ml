@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="public/og-preview.png" alt="Foundations of Machine Learning" width="720" />
-</p>
-
 <h1 align="center">Foundations of Machine Learning</h1>
 
 <p align="center">
@@ -25,17 +21,35 @@ An open-source, interactive web textbook that distills [*Foundations of Machine 
 
 > **Not affiliated with the original authors or MIT Press.** This project rewrites the material for accessibility and adds interactive elements to support self-study.
 
-<!-- TODO: Replace with actual screenshots
+<br/>
+
 <p align="center">
-  <img src=".github/screenshots/home.png" alt="Home page" width="720" />
+  <picture>
+    <img src=".github/screenshots/home.png" alt="Home page — hero section with chapter listing" width="720" style="border-radius:12px; border:1px solid #e7e5e4;" />
+  </picture>
 </p>
+
 <p align="center">
-  <img src=".github/screenshots/chapter.png" alt="Chapter view" width="720" />
+  <em>Clean, distraction-free reading experience</em>
 </p>
+
+<br/>
+
 <p align="center">
-  <img src=".github/screenshots/svm-viz.png" alt="SVM visualization" width="720" />
+  <picture>
+    <img src=".github/screenshots/chapter.png" alt="Chapter view — Kernel Methods" width="720" style="border-radius:12px; border:1px solid #e7e5e4;" />
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <img src=".github/screenshots/interactive.png" alt="Interactive SVM visualization and practice exercises" width="720" style="border-radius:12px; border:1px solid #e7e5e4;" />
+  </picture>
 </p>
--->
+
+<p align="center">
+  <em>Chapter content with interactive visualizations and practice exercises</em>
+</p>
+
+<br/>
 
 ## Features
 
